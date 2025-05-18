@@ -72,7 +72,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/arafatakashakku/)
 - 🌐 [Portfolio](https://arafatakashakku.netlify.app/)
-- 📧 [Email](mailto:arafatakash5@gmail.com)
+- 📧 Email: arafatakash5@gmail.com
 
 ---
 
